@@ -1,9 +1,20 @@
-# Nuxt Minimal Starter
+# InstaApp
+Share moment gambar anda, like dan komentar moment bersama
+Ini adalah FE bagian dari sistem InstaApp
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Fitur
+Fitur dalam InstaApp mencangkup
+- Register dan Login
+- Posting text gambar
+- Like dan komentar
+- Autentifikasi pengguna
+- Hak akses terhadap post, like, dan komentar
+
+## Requirement
+Berikut adalah requirement untuk menjalankan program ini
+- Node >= versi 22
 
 ## Setup
-
 Make sure to install dependencies:
 
 ```bash
@@ -21,7 +32,6 @@ bun install
 ```
 
 ## Development Server
-
 Start the development server on `http://localhost:3000`:
 
 ```bash
